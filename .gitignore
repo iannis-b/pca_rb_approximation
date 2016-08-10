@@ -2,7 +2,11 @@
 *.py~
 *.orig
 *.txt~
-crbs\.egg-info/*
 *.rst~
-lidar_processing\.egg-info/*
-.idea/*
+*~
+/crbs\.egg-info/*
+notebooks/.ipynb_checkpoints/*
+notebooks/*.pdf
+pca_approximation\.egg-info/*
+/.idea/*
+
