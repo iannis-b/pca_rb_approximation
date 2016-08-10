@@ -1,0 +1,8 @@
+*.pyc
+*.py~
+*.orig
+*.txt~
+crbs\.egg-info/*
+*.rst~
+lidar_processing\.egg-info/*
+.idea/*
